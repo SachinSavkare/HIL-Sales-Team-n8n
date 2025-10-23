@@ -168,6 +168,3 @@ flowchart TD
 📧 `sachinsavkare08@gmail.com`
 
 ---
-
-Would you like me to generate a **second version** optimized for **GitHub Pages (with light HTML styling)** as well? That’s ideal if you plan to make this project publicly visible on your profile page.
-```
